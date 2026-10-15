@@ -1,0 +1,27 @@
+.card {
+  height: 100%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: white;
+  box-shadow: 0 2px 5px #00000010;
+}
+
+.card h2 {
+  margin: 0 0 12px;
+  font-size: 20px;
+}
+
+.card p {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.category {
+  color: #666;
+  font-size: 14px;
+}
